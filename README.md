@@ -1,6 +1,7 @@
 # Started React
 ## Description
 This project reports the start of React.
+```
 ## Project Skeleton
 |
 |----readme.md          
@@ -29,12 +30,13 @@ This project reports the start of React.
 │    └── index.css
 ├── package.json
 └── yarn.lock
+```
 ## Project-gif
 
 ## Project-link
 https://started-react.vercel.app/
 ### At the end of the project, following topics are to be covered;
-HTML
-CSS
-JS
-ReactJS
+- HTML
+- CSS
+- JS
+- ReactJS
