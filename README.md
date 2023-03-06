@@ -32,7 +32,7 @@ This project reports the start of React.
 └── yarn.lock
 ```
 ## Project-gif
-
+![started-react](https://user-images.githubusercontent.com/102467587/223228306-7ba1295c-8dd4-46dc-8ef0-e8d35c3bc376.gif)
 ## Project-link
 https://started-react.vercel.app/
 ### At the end of the project, following topics are to be covered;
