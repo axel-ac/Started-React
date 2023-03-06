@@ -1,8 +1,8 @@
 # Started React
 ## Description
 This project reports the start of React.
-```
 ## Project Skeleton
+```
 |
 |----readme.md          
 ├── public
